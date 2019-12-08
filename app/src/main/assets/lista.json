@@ -1,0 +1,48 @@
+[
+  {
+    "titulo": "Cinema a la fresca",
+    "categoria": "cine",
+    "descripcion": "Tal como habéis leído, hay vida más allá del famoso miércoles o día del espectador. Cine de estreno, cine de reposición, cartelera alternativa, cine de autor, en V.O. o doblada… ",
+    "dia": "2019-11-15",
+    "hora": "19:30",
+    "id": "1",
+    "valoracion": 3
+  },
+  {
+    "titulo": "Teatro a la fresca",
+    "categoria": "teatro",
+    "descripcion": "Anna Giribet Argilès, Art Director Eduard Ribera, Head of Communication Over the next five years FiraTàrrega will be embarking on a new creative and managerial project. As a result of recent changes to both the Fair’s directing positions these first few months have been spent in redoubling efforts to find the lowest common denominator tha",
+    "dia": "2019-11-15",
+    "hora": "19:30",
+    "id": "2",
+    "valoracion": 3
+  },
+  {
+    "titulo": "Mercado medieval",
+    "categoria": "mercado",
+    "descripcion": "La tradició del Mercat setmanal de Vic, ha fet que aquesta sigui una de les principals imatges que el visitant espera trobar. Al llarg dels anys, han nascut nous ...",
+    "dia": "2019-11-15",
+    "hora": "19:30",
+    "id": "3",
+    "valoracion": 4
+  },
+  {
+    "titulo": "Día Internacional de los Museos",
+    "categoria": "museo",
+    "descripcion": "El Día Internacional de los Museos es un evento coordinado por el Consejo Internacional de Museos (ICOM) que tiene lugar cada año alrededor del 18 de ...",
+    "dia": "2019-12-15",
+    "hora": "09:30",
+    "id": "4",
+    "valoracion": 4
+  },
+  {
+    "titulo": "Concentraciones de Vehículos Clásicos, Históricos y Antiguos",
+    "categoria": "coches",
+    "descripcion": "Todas las Concentraciones de Coches Clásicos y Motos Clásicas 2019, Camiones Clásicos, Coches Clásicos Americanos, Rallyes, Rutas, Regularidad,...",
+    "dia": "2020-01-15",
+    "hora": "15:30",
+    "id": "4",
+    "valoracion": 4
+  }
+
+]
